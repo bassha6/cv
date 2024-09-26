@@ -1,10 +1,8 @@
 import Education from "@/components/education";
 import Footer from "@/components/footer";
-import Header from "@/components/header";
 import Profile from "@/components/profile";
 import Projects from "@/components/projects";
 import Skills from "@/components/skills";
-import Testimonials from "@/components/testimonials";
 import WorkExperience from "@/components/works";
 
 
