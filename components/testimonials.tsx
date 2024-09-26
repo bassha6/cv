@@ -7,7 +7,7 @@ export default function Testimonials() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-3 border-y border-gray-200 divide-y sm:divide-y-0 sm:divide-x divide-gray-200 dark:border-neutral-700 dark:divide-neutral-700">
           <div className="sm:-ms-4 py-6 sm:px-4">
             <blockquote>
-              <span className="text-sm text-gray-800 ">I'm absolutely floored by the level of care and attention to detail Eliana has put into this project and for one can guarantee that we will be a return customer.</span>
+              <span className="text-sm text-gray-800 ">I &apos m absolutely floored by the level of care and attention to detail Eliana has put into this project and for one can guarantee that we will be a return customer.</span>
               <footer className="mt-3">
                 <div className="flex items-center gap-x-2">
                   <img className="shrink-0 size-5 rounded-full" src="/placeholder.svg?height=20&width=20" alt="Avatar" />
